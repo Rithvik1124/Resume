@@ -1,2 +1,2 @@
-# Resume
-![Resume][(https://github.com/Rithvik1124/Resume/blob/68e4136d2f5ecade3869794e79c74449aefc5ce0/Rithvik%20PAT%20Resume.pdf)](https://github.com/Rithvik1124/Resume/blob/68e4136d2f5ecade3869794e79c74449aefc5ce0/Rithvik%20PAT%20Resume.pdf)
+Rithvik PAT Resume.pdf
+<iframe src="https://drive.google.com/file/d/17od4unHm0INNGm9gECt5X7QymlpmFbc9/view?usp=sharing"></iframe>
